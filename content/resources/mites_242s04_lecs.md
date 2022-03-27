@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: fef46fc1-e382-f92c-405c-4ce968817062
 resourcetype: Document
 title: Gender Issues in Academics and Academia
 uid: 2e7206d9-f7e5-1b1f-25f9-f95bdc2266f7

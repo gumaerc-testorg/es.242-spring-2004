@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: fef46fc1-e382-f92c-405c-4ce968817062
 resourcetype: Document
 title: Title IX
 uid: 42cc0fd5-2b0b-3a97-acef-f89bc3602f3b

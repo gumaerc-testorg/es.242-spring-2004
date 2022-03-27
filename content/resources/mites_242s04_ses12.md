@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: fef46fc1-e382-f92c-405c-4ce968817062
 resourcetype: Document
 title: Opting Out
 uid: 5742cd51-fe42-b9ef-99d4-99a2893db91d

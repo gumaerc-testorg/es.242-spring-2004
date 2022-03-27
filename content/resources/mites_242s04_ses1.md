@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: fef46fc1-e382-f92c-405c-4ce968817062
 resourcetype: Document
 title: Introduction; History of Gender in Education
 uid: 49584492-22b4-b18d-b1ca-5a69242c53b9

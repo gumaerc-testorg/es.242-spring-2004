@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: fef46fc1-e382-f92c-405c-4ce968817062
 resourcetype: Document
 title: Gay, Lesbian, Bisexual, and Transgendered Experiences
 uid: b30e3e54-6627-0032-6085-ea74ef82fb20
