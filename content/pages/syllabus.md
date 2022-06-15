@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: This section contains information about format, course description, class
+  structure, readings, writing assignmnets and gradinmg criteria for the course.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Syllabus
 uid: 69c0706a-731e-7e52-172a-3a2c7fb19008
 ---
