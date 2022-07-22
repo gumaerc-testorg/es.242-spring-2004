@@ -6,6 +6,7 @@ file: /courses/es-242-gender-issues-in-academics-and-academia-spring-2004/b30e3e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Gay, Lesbian, Bisexual, and Transgendered Experiences
 uid: b30e3e54-6627-0032-6085-ea74ef82fb20
 ---
 This resource contains the information regarding gay, lesbian, bisexual, and transgendered experiences.
-

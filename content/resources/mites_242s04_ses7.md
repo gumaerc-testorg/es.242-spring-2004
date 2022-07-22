@@ -5,6 +5,7 @@ file: /courses/es-242-gender-issues-in-academics-and-academia-spring-2004/3a02f6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Classroom Dynamics
 uid: 3a02f6b3-57d5-10f5-be75-58608ea82a24
 ---
 This resource contains the information regarding .
-

@@ -5,6 +5,7 @@ file: /courses/es-242-gender-issues-in-academics-and-academia-spring-2004/6ea33c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: The Feminine Mystique
 uid: 6ea33cb0-44a3-0a1c-35ef-baae0db000e6
 ---
 This resource contains the information regarding The Feminine Mystique.
-

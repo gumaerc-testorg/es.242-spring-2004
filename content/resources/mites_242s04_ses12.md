@@ -5,6 +5,7 @@ file: /courses/es-242-gender-issues-in-academics-and-academia-spring-2004/5742cd
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Opting Out
 uid: 5742cd51-fe42-b9ef-99d4-99a2893db91d
 ---
 This resource contains the information regarding opting out.
-

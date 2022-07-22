@@ -5,6 +5,7 @@ file: /courses/es-242-gender-issues-in-academics-and-academia-spring-2004/1c99b0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Boys' Educational Issues
 uid: 1c99b0b5-3f0a-d821-a76a-f90278042e70
 ---
 This resource contains the information regarding Boys' Educational Issues.
-

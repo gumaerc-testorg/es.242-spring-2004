@@ -5,6 +5,7 @@ file: /courses/es-242-gender-issues-in-academics-and-academia-spring-2004/6a9d40
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Single-Sex Schooling
 uid: 6a9d4094-88f3-18e5-ae37-3f3ba6b98bcb
 ---
 This resource contains the information regarding single-sex schooling.
-

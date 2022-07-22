@@ -6,6 +6,7 @@ file: /courses/es-242-gender-issues-in-academics-and-academia-spring-2004/495844
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Introduction; History of Gender in Education
 uid: 49584492-22b4-b18d-b1ca-5a69242c53b9
 ---
 This resource contains the information regarding introduction; history of gender in education.
-
