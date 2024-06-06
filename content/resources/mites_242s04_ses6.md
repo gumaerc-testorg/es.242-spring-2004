@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding single-sex schooling.
 file: /courses/es-242-gender-issues-in-academics-and-academia-spring-2004/6a9d409488f318e5ae373f3ba6b98bcb_MITES_242S04_ses6.pdf
+file_size: 128162
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
