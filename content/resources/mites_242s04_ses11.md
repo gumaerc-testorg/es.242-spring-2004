@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding MIT's Journey Towards
   Diversity.
 file: /courses/es-242-gender-issues-in-academics-and-academia-spring-2004/841b984f8af3d2041da1a3c613b92c5d_MITES_242S04_ses11.pdf
+file_size: 589298
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
