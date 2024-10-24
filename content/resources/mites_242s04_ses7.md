@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding .
-file: /courses/es-242-gender-issues-in-academics-and-academia-spring-2004/3a02f6b357d510f5be7558608ea82a24_MITES_242S04_ses7.pdf
+file: /ol-ocw-studio-app/courses/es-242-gender-issues-in-academics-and-academia-spring-2004/3a02f6b357d510f5be7558608ea82a24_MITES_242S04_ses7.pdf
 file_size: 132110
 file_type: application/pdf
 learning_resource_types:
