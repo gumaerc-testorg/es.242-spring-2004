@@ -56,7 +56,7 @@ Title IX
 
 JBR, chapter 1: "Too Strong for a Woman: The Five Words that Created Title IX" (Sandler).
 
-"[Title IX of the Education Amendments of 1972](https://www.hhs.gov/civil-rights/for-individuals/sex-discrimination/title-ix-education-amendments/index.html#:~:text=Title%20IX%20of%20the%20Education%20Amendments%20of%201972%20(Title%20IX,activity%20receiving%20federal%20financial%20assistance.)". 20 U.S.C. §1681-1688.
+"[Title IX of the Education Amendments of 1972](https://www.hhs.gov/civil-rights/for-individuals/sex-discrimination/title-ix-education-amendments/index.html#:~:text=Title%20IX%20of%20the%20Education%20Amendments%20of%201972%20%28Title%20IX,activity%20receiving%20federal%20financial%20assistance.)". 20 U.S.C. §1681-1688.
 
 Riley, Richards and Norma Cantú. "[Title IX: 25 Years of Progress](http://www.ed.gov/pubs/TitleIX/index.html)." *U.S. Department of Education* (June 1997).
 
@@ -142,7 +142,7 @@ McGroarty, Mary. "[Cross-Cultural Issues in Adult ESL Classrooms](http://www.cal
 MIT's Journey Towards Diversity
 {{< tdclose >}}{{< tdopen >}}
 
-Jaimes, Joel J. "[Diversity at MIT: 1981 to Present](http://www-tech.mit.edu/V123/N3/timeline.3f.html)." *The Tech* 123, no. 3 (February 11, 2003).
+Jaimes, Joel J. "Diversity at MIT: 1981 to Present." *The Tech* 123, no. 3 (February 11, 2003).
 
 Penfield, Paul. "[Faculty Diversity](http://www-mtl.mit.edu/~penfield/pubs/diversity.html)." *MIT Faculty Newsletter* 6, no. 3 (January/February 1994): 1, 12-15.
 
