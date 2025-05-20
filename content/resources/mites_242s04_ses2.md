@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Boys' Educational Issues.
-file: /ol-ocw-studio-app/courses/es-242-gender-issues-in-academics-and-academia-spring-2004/1c99b0b53f0ad821a76af90278042e70_MITES_242S04_ses2.pdf
+file: /courses/es-242-gender-issues-in-academics-and-academia-spring-2004/1c99b0b53f0ad821a76af90278042e70_MITES_242S04_ses2.pdf
 file_size: 126742
 file_type: application/pdf
 learning_resource_types:

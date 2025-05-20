@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding The Feminine Mystique.
-file: /ol-ocw-studio-app/courses/es-242-gender-issues-in-academics-and-academia-spring-2004/6ea33cb044a30a1c35efbaae0db000e6_MITES_242S04_ses8.pdf
+file: /courses/es-242-gender-issues-in-academics-and-academia-spring-2004/6ea33cb044a30a1c35efbaae0db000e6_MITES_242S04_ses8.pdf
 file_size: 586786
 file_type: application/pdf
 learning_resource_types:
