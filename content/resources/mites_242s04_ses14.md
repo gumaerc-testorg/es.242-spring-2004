@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding summary and conclusions.
-file: /courses/es-242-gender-issues-in-academics-and-academia-spring-2004/6f5325c3ea7085912e3133fb0a16384d_MITES_242S04_ses14.pdf
+file: /ol-ocw-studio-app/courses/es-242-gender-issues-in-academics-and-academia-spring-2004/6f5325c3ea7085912e3133fb0a16384d_MITES_242S04_ses14.pdf
 file_size: 93320
 file_type: application/pdf
 learning_resource_types:

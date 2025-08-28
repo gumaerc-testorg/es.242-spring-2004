@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding opting out.
-file: /courses/es-242-gender-issues-in-academics-and-academia-spring-2004/5742cd51fe42b9ef99d499a2893db91d_MITES_242S04_ses12.pdf
+file: /ol-ocw-studio-app/courses/es-242-gender-issues-in-academics-and-academia-spring-2004/5742cd51fe42b9ef99d499a2893db91d_MITES_242S04_ses12.pdf
 file_size: 589796
 file_type: application/pdf
 learning_resource_types:
