@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Gender Issues in Academics
   and Academia.
-file: /courses/es-242-gender-issues-in-academics-and-academia-spring-2004/2e7206d9f7e51b1f25f9f95bdc2266f7_MITES_242S04_lecs.pdf
+file: /ol-ocw-studio-app/courses/es-242-gender-issues-in-academics-and-academia-spring-2004/2e7206d9f7e51b1f25f9f95bdc2266f7_MITES_242S04_lecs.pdf
 file_size: 330934
 file_type: application/pdf
 learning_resource_types:
